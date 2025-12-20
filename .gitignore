@@ -1,0 +1,15 @@
+ECHO is on.
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings folder
+.vscode/
