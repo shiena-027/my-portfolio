@@ -42,7 +42,7 @@ const error = ref('')
 
 const router = useRouter()
 
-const VALID_USERNAME = 'Mai'
+const VALID_USERNAME = ('Mai', 'shiena_mae')
 const VALID_PASSWORD = '123456789'
 
 function handleLogin() {
